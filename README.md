@@ -63,6 +63,7 @@
 - [Byparr](https://github.com/ThePhaseless/Byparr/) - An alternative to FlareSolverr as a drop-in replacement, built with seleniumbase and FastAPI.
 - [Calendarr](https://github.com/jordanlambrecht/calendarr) - A notification system that sends scheduled Sonarr/Radarr calendar updates to Discord and Slack.
 - [Checkrr](https://github.com/aetaric/checkrr) - Scans your library files for corrupt media and replace the files via sonarr and radarr.
+- [Chucklarr](https://github.com/mscodemonkey/Chucklarr) - Monitors releases from your favourite stand-up comedians and sends them to radarr for processing.
 - [Cleanarr (hrenard)](https://github.com/hrenard/cleanarr/) - A small utility tasked to automatically clean radarr and sonarr files over time.
 - [Cleanarr (se1exin)](https://github.com/se1exin/Cleanarr) - A simple UI to help find and delete duplicate and sample files from your Plex server.
 - [Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - An advanced cleaner for dead or malicious torrents.
